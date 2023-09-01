@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Spready](https://play.google.com/store/apps/details?id=com.yeapp.Spready)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **flutter** and **nodejs**
 
-- 💬 Ask me about **flutter, python and figma**
+- 💬 Ask me about **flutter, python,nodejs and figma**
 
 - 📫 How to reach me **yunusemreozturk1@hotmail.com**
 
