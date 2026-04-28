@@ -1,5 +1,5 @@
 Hey, i'm Yunus Emre 👋
-mobile developer · flutter · bursa, turkey
+Mobile Developer · Flutter · Bursa, Turkey
 
 ---
 
