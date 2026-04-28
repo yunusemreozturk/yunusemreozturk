@@ -5,7 +5,7 @@ mobile developer · flutter · bursa, turkey
 
 Been building mobile apps for ~5 years. worked on products that hit millions of downloads — mostly in live streaming, video calling, and chat. one of them ranked **#2 in video calling on the turkish app store**.
 
-Currently at **proji dijital pazarlama**, deepening my flutter skills, and slowly building a 2d game in unity on weekends.
+Currently deepening my flutter skills, and slowly building a 2d game in unity on weekends.
 
 ---
 
